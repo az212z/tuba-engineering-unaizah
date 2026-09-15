@@ -22,3 +22,4 @@
 .ikteiva .wa-float img,.tabayun .wa-float img,.models .wa-float img,.errtiqaa .wa-float img,.rawasem .wa-float img,.tuba .wa-float img{filter:invert(1)}
 @media(min-width:801px){.errtiqaa .hero-art{grid-column:1;height:405px}.errtiqaa .hero-art img{object-fit:contain}.errtiqaa .hero-aux{display:block;grid-column:2;height:405px}.errtiqaa .hero-aux img{object-fit:contain}}
 @keyframes enter{from{transform:translateY(12px)}to{transform:none}}
+@media(max-width:800px){.page-main .section>.button{max-width:100%;white-space:normal;text-align:center}.profile-cover .button{white-space:normal;text-align:center}}
